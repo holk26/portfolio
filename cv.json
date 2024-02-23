@@ -1,51 +1,35 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Homero Cabrera Araque",
+    "label": "Software Developed| .NET | C# | Python | SQL | ReactJS | JavaScript | RPA | Django | API | IA | Docker",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "homero9726@gmail.com",
+    "phone": "+57 3102796853",
+    "url": "https://www.linkedin.com/in/homero-cabrera-desarrollador/",
+    "summary": "I am a Full Stack Developer passionate about automation and technological innovation. I have strong experience in ReactJS, Django REST API, Jenkins, Docker, C#, PHP, Python, JavaScript, HTML, and CSS. I am committed to delivering robust and effective solutions in challenging environments. My enthusiasm for agile development and continuous improvement is complemented by my ability to integrate cutting-edge technologies, such as automation, OpenAI APIs, and continuous integration through GIT and GitHub. I have worked on various projects, applying solid principles of object-oriented programming (OOP) and MVC design patterns, which has strengthened my ability to deliver high-quality, results-oriented software. My focus goes beyond programming. In essence, I seek to create transformative solutions that drive business success and enhance user experience. As a passionate advocate for technical excellence and cutting-edge technology, I am prepared to face the current and future challenges in the software development world.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "V6A 1A1",
+      "city": "Vancouver",
+      "countryCode": "CA",
+      "region": "British Columbia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "homero-cabrera-desarrollador",
+        "url": "https://www.linkedin.com/in/homero-cabrera-desarrollador/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "holk26",
+        "url": "https://github.com/holk26"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
+      "name": "Ufine",
       "position": "Lead Frontend Architect",
       "url": "https://twitch.tv/midudev",
       "startDate": "2016-06-01",
