@@ -30,11 +30,11 @@
   "work": [
     {
       "name": "Ufinet",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "position": "Software developer",
+      "url": "https://www.ufinet.com/",
+      "startDate": "2024-01-22",
+      "endDate": "",
+      "summary": "Desarrollar soluciones en .net js para el CRM dynamics 365",
       "highlights": [
         "Started the company"
       ]
@@ -62,12 +62,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "Politégnico grancolombiano",
+    "url": "https://www.poli.edu.co/",
     "area": "Ingeniero de Software",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2021-01-01",
+    "endDate": "",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -123,14 +123,14 @@
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "basic",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "medio",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
@@ -144,14 +144,14 @@
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
@@ -165,7 +165,7 @@
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -178,7 +178,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
   "interests": [{
