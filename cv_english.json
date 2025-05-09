@@ -260,5 +260,18 @@
       "fluency": "Basic"
     }
   ],
-  "projects": []
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "isActive": true,
+      "description": "Personal portfolio website built with Astro and TypeScript showcasing my professional experience, skills, and projects.",
+      "highlights": [
+        "Responsive Design",
+        "Fast Performance",
+        "Clean Code"
+      ],
+      "url": "https://homero-portfolio.vercel.app",
+      "github": "https://github.com/holk26/portfolio"
+    }
+  ]
 }
