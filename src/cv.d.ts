@@ -125,10 +125,10 @@ type Language =
 
 interface Projects {
   name: string
-  isActive: boolean
   description: string
   highlights: Highlight
   url: string
+  isActive?: boolean
   github?: string
 }
 
