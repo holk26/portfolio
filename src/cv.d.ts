@@ -46,7 +46,7 @@ interface Work {
   startDate: DateStr
   endDate: DateStr | null
   summary: string
-  highlights: Highlight
+  highlights: Array<string>
 }
 
 type DateStr = `${string}-${string}-${string}`
@@ -58,7 +58,7 @@ interface Volunteer {
   startDate: DateStr
   endDate: DateStr
   summary: string
-  highlights: Highlight
+  highlights: Array<string>
 }
 
 interface Skills {
@@ -126,7 +126,7 @@ type Language =
 interface Projects {
   name: string
   description: string
-  highlights: Highlight
+  highlights: Array<string>
   url: string
   isActive?: boolean
   github?: string
@@ -142,4 +142,4 @@ interface References {
   reference: string
 }
 
-type Highlight = Array<String>
+type Highlight = Array<string>
