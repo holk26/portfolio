@@ -1,190 +1,253 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "name": "Homero Cabrera Araque",
+    "label": "Software Developer | .NET | MCP | C# | Python | SQL | ReactJS | JavaScript | RPA | AI | Django | API | Docker | Power Apps",
+    "image": "/me.jfif",
+    "email": "homero9726@gmail.com",
+    "phone": "+1 604 7546694",
+    "url": "https://www.linkedin.com/in/homero-cabrera-desarrollador/",
+    "summary": "I am a Full Stack Developer passionate about automation and technological innovation. I have strong experience in ReactJS, Django REST API, Jenkins, Docker, C#, PHP, Python, JavaScript, HTML, and CSS. I am committed to delivering robust and effective solutions in challenging environments. My enthusiasm for agile development and continuous improvement is complemented by my ability to integrate cutting-edge technologies, such as automation, OpenAI APIs, and continuous integration through GIT and GitHub. I have worked on various projects, applying solid principles of object-oriented programming (OOP) and MVC design patterns, which has strengthened my ability to deliver high-quality, results-oriented software. My focus goes beyond programming. In essence, I seek to create transformative solutions that drive business success and enhance user experience. As a passionate advocate for technical excellence and cutting-edge technology, I am prepared to face the current and future challenges in the software development world.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "V6A 1A1",
+      "city": "Burnaby",
+      "countryCode": "CA",
+      "region": "British Columbia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "homero-cabrera-desarrollador",
+        "url": "https://www.linkedin.com/in/homero-cabrera-desarrollador/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "holk26",
+        "url": "https://github.com/holk26"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "VidaMia",
+      "position": "Senior Software Engineer",
+      "url": "",
+      "startDate": "2023-01",
+      "endDate": "",
+      "summary": "As a Senior Software Engineer, contributed to complex software development projects, leveraging a broad technical skillset to design, develop, and deploy high-quality software solutions in a collaborative environment in Colombia.",
+      "highlights": []
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "UFINET",
+      "position": "Senior Software Developer",
+      "url": "https://www.ufinet.com/",
+      "startDate": "2024-01",
+      "endDate": "2024-07",
+      "summary": "Worked with Power Apps, APIs, and C# in Visual Studio to develop and optimize business applications. Focused on creating efficient, scalable, and user-friendly solutions to enhance workflow automation and system integration in Colombia.",
+      "highlights": []
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "AZTECA INTERNACIONAL INC",
+      "position": "Software Developer | CI/CD & Automation",
+      "url": "",
+      "startDate": "2023-10",
+      "endDate": "2024-01",
+      "summary": "Implemented continuous integration and deployment (CI/CD) pipelines to streamline development workflows. Developed automation solutions to optimize business processes and integrated the ChatGPT API to enhance system functionality and user interactions. Focused on improving efficiency, scalability, and AI-driven automation in Bogotá, Distrito Capital, Colombia.",
+      "highlights": []
+    },
+    {
+      "name": "Digital Solutions 324 SL",
+      "position": ".NET Developer",
+      "url": "",
+      "startDate": "2023-02",
+      "endDate": "2023-03",
+      "summary": "Contributed to .NET development projects, focusing on building and enhancing software components and web services for clients in Barcelona, Spain.",
+      "highlights": []
+    },
+    {
+      "name": "Telefónica",
+      "position": "Automation and Multi-Country Analysis Specialist",
+      "url": "",
+      "startDate": "2020-03",
+      "endDate": "2023-01",
+      "summary": "Optimized business processes using Visual Studio, C#, and automation tools to streamline operations across multiple countries where the telecommunications company operated. Focused on improving efficiency, reducing manual tasks, and enhancing cross-country workflow automation in Bogotá, Distrito Capital, Colombia.",
+      "highlights": []
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Politécnico Grancolombiano",
+      "url": "https://www.poli.edu.co/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2021-02",
+      "endDate": "2024-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Servicio Nacional de Aprendizaje (SENA)",
+      "url": "",
+      "area": "Technological Specialization in Mobile Application Development",
+      "studyType": "Technological Specialization",
+      "startDate": "2019-07",
+      "endDate": "2020-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Servicio Nacional de Aprendizaje (SENA)",
+      "url": "",
+      "area": "Technologist in Information Systems Analysis and Development",
+      "studyType": "Technologist Degree",
+      "startDate": "2015-07",
+      "endDate": "2017-12",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Protect Your Business: Cybersecurity in Teleworking",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Digitize Your Business Step-by-Step with Google Tools",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Foundational C# with Microsoft",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Introduction to Web Development Course: HTML and CSS (1/2)",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "React.JS, Guide from Scratch",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "React",
       "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI Development"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server-side"]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": ["Backend Development", "Scripting", "Django", "AI/ML"]
+    },
+    {
+      "name": "Django",
+      "level": "Advanced",
+      "keywords": ["Python", "Backend Development", "Web Framework", "REST API"]
+    },
+    {
+      "name": ".NET",
+      "level": "Advanced",
+      "keywords": ["Backend Development", "C#", "Enterprise Software"]
+    },
+    {
+      "name": "C#",
+      "level": "Advanced",
+      "keywords": ["Backend Development", ".NET", "Software Development"]
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced",
+      "keywords": ["Database Management", "Data Querying", "Backend", "MySQL"]
+    },
+    {
+      "name": "API Development",
+      "level": "Advanced",
+      "keywords": ["RESTful APIs", "Backend", "Integration"]
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": ["Containerization", "DevOps", "Deployment"]
+    },
+    {
+      "name": "Power Apps",
+      "level": "Intermediate",
+      "keywords": ["Low-code Development", "Business Applications", "Microsoft Power Platform"]
+    },
+    {
+      "name": "RPA (Robotic Process Automation)",
+      "level": "Intermediate",
+      "keywords": ["Automation", "Process Optimization", "Bot Development"]
+    },
+    {
+      "name": "AI (Artificial Intelligence)",
+      "level": "Intermediate",
+      "keywords": ["Machine Learning", "ChatGPT API", "Automation"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Basic",
+      "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code Management"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code Management", "Git"]
+    },
+    {
+      "name": "MCP (Microsoft Certified Professional)",
+      "level": "Proficient",
+      "keywords": ["Microsoft Certification", "Professional Development"]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["CI/CD", "Automation", "DevOps"]
     }
   ],
   "languages": [
@@ -194,82 +257,8 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
-      "highlights": [
-        "Choose your own adventure",
-        "In progress"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
-    }
-  ]
+  "projects": []
 }
